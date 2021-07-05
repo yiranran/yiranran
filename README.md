@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ran Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiranran&show_icons=true&count_private=true&hide=prs&theme=radical)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiranran&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+✨ Email: ranyi@sjtu.edu.cn
+
+✨ Personal Website: https://yiranran.github.io/
+
+✨ Google Scholar: https://scholar.google.com/citations?user=y68DLo4AAAAJ&hl=en
